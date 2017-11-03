@@ -1,4 +1,7 @@
 # test1poetry
+## Significant first student acquaintance with github, pull reqeusts and branches.
+[Source](http://www.stihi-rus.ru/1/br/16.htm)
+```
 test task poetry
 http://www.stihi-rus.ru/1/br/16.htm
 5. Чересчур далеко, чтоб тебе различать голоса -
@@ -10,3 +13,4 @@ http://www.stihi-rus.ru/1/br/16.htm
 11.одинокому сердцу и телу бессчетных постелей -
 12.обожателю Энгра, трамвайных звонков, асфоделей,
 13.белозубой змее в колоннаде жандармской кирзы,
+```
